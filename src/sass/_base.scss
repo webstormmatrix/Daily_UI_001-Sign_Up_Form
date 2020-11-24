@@ -1,0 +1,21 @@
+$white: #fafafa;
+$purple: #7b6ade;
+$teal: #42b5ae;
+$teal-light: #b5fdda;
+$dark-grey: #7b7b7b;
+$eerie: #272727;
+
+$tablet-bp: 768px;
+$desktop-bp: 1024px;
+
+@mixin mq($size) {
+  @media only screen and (min-width: $size) {
+    @content;
+  }
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

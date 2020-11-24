@@ -1,0 +1,23 @@
+{
+  "name": "sign_up_form",
+  "version": "1.0.0",
+  "description": "coded version of my daily_ui 001 challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webstormmatrix/Daily_UI_001-Sign_Up_Form.git"
+  },
+  "keywords": [
+    "dailyui",
+    "signupform"
+  ],
+  "author": "Kadeem Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webstormmatrix/Daily_UI_001-Sign_Up_Form/issues"
+  },
+  "homepage": "https://github.com/webstormmatrix/Daily_UI_001-Sign_Up_Form#readme"
+}
